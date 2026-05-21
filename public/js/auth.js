@@ -6,7 +6,7 @@
   'use strict';
 
   var API_BASE = 'https://aiforalab.com/finmarket-api/api.php';
-  var KAKAO_JS_KEY = 'fc0a1313d895b1956f3830e5bf14307b';
+  var KAKAO_JS_KEY = '0147c669603ca3b91d4eee93b342efe7';
   var TOKEN_KEY = 'finmarket_token';
   var USER_KEY = 'finmarket_user';
   var _loginInProgress = false;
